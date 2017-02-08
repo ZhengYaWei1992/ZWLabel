@@ -8,6 +8,6 @@ Pod::Spec.new do |s|
   s.author             = { "ZhengYaWei1992" => "email@address.com" }
   s.platform     = :ios, "8.0"
   s.source       = { :git => "https://github.com/ZhengYaWei1992/ZWLabel.git", :tag => s.version }
-  s.source_files  = "ZWLabel", "ZWlabelDemo/ZWlabelDemo/ZWlabel/*.{h,m}"
+  s.source_files  = "ZWLabel", "ZWLabelDemo/ZWLabelDemo/ZWLabel/*.{h,m}"
   s.requires_arc = true
 end
